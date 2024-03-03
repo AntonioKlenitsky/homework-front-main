@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/%20//AntonioKlenitsky.github.io/homework-front-main/static/css/main.073c9b0a.css",
-    "main.js": "/%20//AntonioKlenitsky.github.io/homework-front-main/static/js/main.97624b40.js",
+    "main.js": "/%20//AntonioKlenitsky.github.io/homework-front-main/static/js/main.3a1ac264.js",
     "static/js/787.177e23c2.chunk.js": "/%20//AntonioKlenitsky.github.io/homework-front-main/static/js/787.177e23c2.chunk.js",
     "index.html": "/%20//AntonioKlenitsky.github.io/homework-front-main/index.html",
     "main.073c9b0a.css.map": "/%20//AntonioKlenitsky.github.io/homework-front-main/static/css/main.073c9b0a.css.map",
-    "main.97624b40.js.map": "/%20//AntonioKlenitsky.github.io/homework-front-main/static/js/main.97624b40.js.map",
+    "main.3a1ac264.js.map": "/%20//AntonioKlenitsky.github.io/homework-front-main/static/js/main.3a1ac264.js.map",
     "787.177e23c2.chunk.js.map": "/%20//AntonioKlenitsky.github.io/homework-front-main/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.97624b40.js"
+    "static/js/main.3a1ac264.js"
   ]
 }
